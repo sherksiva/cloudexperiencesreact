@@ -6,7 +6,7 @@ Experiences project created with files separation and components of header, card
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/bizzy-coding/React-Airbnb-Clone.git
+   git clone https://github.com/sherksiva/cloudexperiencesreact.git
    ```
 2. Navigate to the project directory:
    ```sh
