@@ -10,7 +10,7 @@ Experiences project created with files separation and components of header, card
    ```
 2. Navigate to the project directory:
    ```sh
-   cd experiencescloud
+   cd cloudexperiencesreact
    ```
 3. Install dependencies:
    ```sh
